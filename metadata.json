@@ -1,0 +1,6 @@
+{
+  "name": "KenyaHub Business Studio",
+  "description": "Mobile-first business suite for Kenyan entrepreneurs: invoices with M-Pesa, viral marketing copy in English/Swahili/Sheng, profit calculators, and AI biashara advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
